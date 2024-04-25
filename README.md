@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![CKA: Certified Kubernetes Administrator](assets/CKA.png)](https://www.credly.com/badges/50e15696-e2f7-48fb-804a-9734d6944c52)
+
 <!--
 **helloooooo/helloooooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
